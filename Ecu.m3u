@@ -1,0 +1,31 @@
+#EXTM3U
+ 
+
+#EXTINF:-1,ECUAVISA
+https://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
+#EXTINF:-1,ECUAVISA HD
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?uid=IbMXOxRb1rX2KcT5RlGzv4iROZejqfpw&sid=KwJJPRL094fPUErRnx5emtduy7FDqS0I&pid=ktEiWbK1ZPMFrpR9V2J9tJpQsPgg8nqA&an=screen&at=web-app&av=v5.2.179&ref=https%3A%2F%2Fwww.ecuavisa.com&res=414x233&without_cookies=false&dnt=true
+#EXTINF:-1,OROMAR TV
+http://190.52.205.149:8082/hls/oromartv_hi/index.m3u8
+#EXTINF:-1,RTS
+https://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
+#EXTINF:-1,RTS HD
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMzMjc2NzY2LCJzZXNzaW9uIjoiNDUuNzEuMzcuMjkiLCJ3aGl0ZWxpc3QiOlsiNDUuNzEuMzcuMjkiXX0sInNpZ25hdHVyZSI6ImMwY2JlNTMzNDdhNmY3NWI3NGJlODgwNWJlNmZlZjRlMTk5OTM3NmUifQ==
+#EXTINF:-1,TELEAMAZONAS
+https://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8
+#EXTINF:-1,UCSG
+https://ecuastream.net:1936/UCSGHQ/UCSGHQ/chunklist_w1171106590.m3u8
+#EXTINF:-1,TC
+https://www.dailymotion.com/cdn/live/video/x7wijay.m3u8?sec=I26uPOOn3HylHdGXaLCjnM7sDs5JYAut5T4Mr7EeRFdyQLkfnSV10y2CneZVI_GN6K_zYsDitGVuGVYz9sZy5g&progressive=1
+#EXTINF:-1,TVC
+https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMzMjc2Njc2LCJzZXNzaW9uIjoiNDUuNzEuMzcuMjkiLCJ3aGl0ZWxpc3QiOlsiNDUuNzEuMzcuMjkiXX0sInNpZ25hdHVyZSI6IjdkNzFkMzAwN2E5YjYwZmQ3ZWQ5ZDcxNmUzYTk2ZTQxMWEzYzhlNmQifQ==
+#EXTINF:-1,CANAL UNO
+https://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8
+#EXTINF:-1,RTU
+https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8
+#EXTINF:-1,CANELA TV
+https://59d39900ebfb8.streamlock.net/canelatv/canelatv/playlist.m3u8
+#EXTINF:-1,TELERAMA
+http://181.175.114.83:8080/livestream/stream.m3u8
+#EXTINF:-1,CHILEVISION
+https://vps-c97214f4.vps.ovh.net/hls/chv.m3u8
